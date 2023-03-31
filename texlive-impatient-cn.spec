@@ -1,6 +1,6 @@
 Name:		texlive-impatient-cn
 Version:	54080
-Release:	1
+Release:	2
 Summary:	Free edition of the book "TeX for the Impatient"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/impatient-cn
