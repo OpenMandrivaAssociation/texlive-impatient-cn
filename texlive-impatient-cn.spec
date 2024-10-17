@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	Free edition of the book "TeX for the Impatient"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/impatient-cn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/impatient-cn
 License:	fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/impatient-cn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/impatient-cn.doc.r%{version}.tar.xz
